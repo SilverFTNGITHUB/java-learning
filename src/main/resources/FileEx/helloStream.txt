@@ -1,0 +1,3 @@
+hello stream
+a line
+byebye stream
